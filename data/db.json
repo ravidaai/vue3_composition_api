@@ -1,0 +1,24 @@
+{
+  "blogs": [
+    {
+      "title": "welcome to vue blog Lorem",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis consequatur, tempore cum aliquid amet dolorem vel eveniet inventore! Suscipit saepe debitis facere eveniet, ea nihil. Eos fuga pariatur placeat eum.",
+      "id": 1,
+      "tags":[
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "title": "welcome to Css blog",
+      "body": "amet consectetur adipisicing elit. Blanditiis consequatur, tempore cum aliquid amet dolorem vel eveniet inventore!",
+      "id": 2,
+      "tags":[
+        "webdev",
+        "css",
+        "coding"
+      ]
+    }
+  ]
+}
